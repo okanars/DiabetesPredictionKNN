@@ -2,7 +2,7 @@
 
 ## Overview
 This project aims to predict the occurrence of diabetes in patients using the K-Nearest Neighbors (KNN) algorithm. The dataset consists of several clinical factors like pregnancies, glucose, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age.
-
+Click here to access the dataset on [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). 
 ## K-Nearest Neighbors (KNN)
 K-Nearest Neighbors is a simple and intuitive supervised learning algorithm used for classification. It classifies a data point based on how its neighbors are classified. KNN stores all available cases and classifies new cases by a majority vote of its K neighbors. The case being assigned to the class is most common amongst its K nearest neighbors measured by a distance function.
 
