@@ -52,6 +52,3 @@ The project demonstrates the application of KNN in predicting diabetes. It highl
 - Experiment with other distance measures and machine learning models.
 - Deploy the model into a web application for real-time predictions.
 
----
-
-Feel free to modify any part of this README to match your project's specific details and requirements!
